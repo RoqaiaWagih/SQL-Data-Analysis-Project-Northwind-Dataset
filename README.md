@@ -1,6 +1,3 @@
-Here's a **README** for the **SQL Data Analysis Project: Northwind Dataset**:
-
----
 
 # **SQL Data Analysis Project: Northwind Dataset**
 
